@@ -49,5 +49,5 @@ A comprehensive web-based Laboratory Management System developed for the Electri
 - 👨‍🏫 **Faculty of Engineering, Electrical Department**
 - 🤝 **All team members who contributed to this project!**
 
-##📜 License
+## 📜 License
 This project is for academic use under the terms of your university’s submission policy.
